@@ -1,6 +1,6 @@
-lion
-dog
-cat
-frog
-goose
-monkey
+Lion
+Dog
+Cat
+Frog
+Goose
+Monkey
